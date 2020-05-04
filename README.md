@@ -1,2 +1,2 @@
 # avtse-iiotg-upgrade
-Upgrade Smartedge IIOT Gateway From Version 1.0 to Version 1.1
+Image update script for Avnet SmartEdge IIoT Gateway
