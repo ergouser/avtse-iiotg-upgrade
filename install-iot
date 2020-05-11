@@ -168,7 +168,7 @@ enable_wifi_ap_mode ()
 
     systemctl daemon-reload
     systemctl enable dnsmasq hostapd
-    systemctl enable attinyupdate bootservice quectel hwclock-start ledservice restservice
+    systemctl enable attinyupdate bootservice quectel hwclock-start buttonservice ledservice restservice
 }
 
 restore_reboot ()
